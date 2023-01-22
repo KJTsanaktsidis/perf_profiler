@@ -1,0 +1,6 @@
+ext/perf_profiler/vmlinux.h
+ext/pref_profiler/*.skel.h
+vendor/
+tmp/
+compile_commands.json
+

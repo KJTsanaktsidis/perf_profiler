@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    perf_profiler (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    extconf_compile_commands_json (0.0.6)
+    rake (13.0.6)
+    rake-compiler (1.2.1)
+      rake
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  extconf_compile_commands_json (= 0.0.6)
+  perf_profiler!
+  rake (~> 13)
+  rake-compiler (~> 1)
+
+BUNDLED WITH
+   2.5.0.dev
