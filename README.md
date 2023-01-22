@@ -2,4 +2,4 @@
 
 This is incredibly early stage hacking that is only of academic curiosity for anybody who wants to browse the source I guess.
 
-Currently relies on Ruby patches I'm carrying in my Ruby fork.
+Currently relies on Ruby patches I'm carrying in my Ruby fork: https://github.com/ruby/ruby/compare/master...KJTsanaktsidis:ruby:ktsanaktsidis/perf_fork
